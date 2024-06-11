@@ -1,0 +1,3 @@
+testing to see if this works and I create a new folderHelloGoodbyeNext line
+Is this going to the next line?
+So if I want this on the next line I have to use the /n first
